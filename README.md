@@ -83,6 +83,10 @@
 
 </div>
 
+<div align="center">
+    <img src="https://github.com/user-attachments/assets/3980f445-4ff7-4ab4-a750-6986a4a29ae7"/>
+</div>
+
 ### 🎯 技能亮点
 <div align="center">
 
