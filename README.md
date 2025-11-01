@@ -3,8 +3,6 @@
     <img width="50%" src="https://github.com/user-attachments/assets/ce531798-33f6-46a2-a4c7-220bd17a93c6"/>
 </div>
 
-
-
 <!-- 个人简介 -->
 <div align="center">
 
@@ -15,73 +13,6 @@
 </div>
 
 ## ✨ 关于我
-
-<div align="center">
-
-<div style="
-  background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
-  border-radius: 20px;
-  padding: 30px;
-  margin: 20px 0;
-  color: white;
-  box-shadow: 0 10px 30px rgba(0,0,0,0.2);
-  animation: float 6s ease-in-out infinite;
-">
-
-<table>
-  <tr>
-    <td>🌟 基本信息
-<table>
-  <tr>
-    <td>🎓 <strong>角色</strong></td>
-    <td>全栈开发者 | 开源爱好者</td>
-  </tr>
-  <tr>
-    <td>📍 <strong>位置</strong></td>
-    <td>北京，中国</td>
-  </tr>
-  <tr>
-    <td>💡 <strong>专长</strong></td>
-    <td>JAVA后端</td>
-  </tr>
-    <tr>
-    <td>📅 <strong>编码年限</strong></td>
-    <td>10年+ 经验</td>
-  </tr>
-</table></td>
-    <td>🎨 个人特质
-<table>
-  <tr>
-    <td>💡 <strong>思维模式</strong></td>
-    <td>逻辑思维 + 创造性解决问题</td>
-  </tr>
-  <tr>
-    <td>🎯 <strong>工作风格</strong></td>
-    <td>注重细节，追求代码优雅</td>
-  </tr>
-  <tr>
-    <td>🤝 <strong>协作方式</strong></td>
-    <td>积极沟通，团队优先</td>
-  </tr>
-<tr>
-    <td>📚 <strong>学习态度</strong></td>
-    <td>持续学习，拥抱变化</td>
-  </tr>
-</table></td>
-  </tr>
-</table>
-
-
-</div>
-
-<style>
-@keyframes float {
-  0%, 100% { transform: translateY(0px); }
-  50% { transform: translateY(-10px); }
-}
-</style>
-
-</div>
 
 <div align="center">
     <img width="100%" src="https://github.com/user-attachments/assets/dabae2dc-70a0-4f86-83ec-afeacc307bd6"/>
