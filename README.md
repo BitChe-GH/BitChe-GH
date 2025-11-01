@@ -84,7 +84,7 @@
 </div>
 
 <div align="center">
-    <img width="100%" src="https://github.com/user-attachments/assets/3980f445-4ff7-4ab4-a750-6986a4a29ae7"/>
+    <img width="100%" src="https://github.com/user-attachments/assets/dabae2dc-70a0-4f86-83ec-afeacc307bd6"/>
 </div>
 
 ### 🎯 技能亮点
