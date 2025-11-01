@@ -13,6 +13,7 @@
     ">
         Hello，我是比特奇;<br>很高兴认识你 ✨
     </h1>
+    ![11月1日](https://github.com/user-attachments/assets/ce531798-33f6-46a2-a4c7-220bd17a93c6)
 </div>
 
 <style>
@@ -22,7 +23,7 @@
     }
 </style>
 
-![11月1日](https://github.com/user-attachments/assets/ce531798-33f6-46a2-a4c7-220bd17a93c6)
+
 
 <!-- 个人简介 -->
 <div align="center">
