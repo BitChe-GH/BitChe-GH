@@ -1,27 +1,7 @@
 <!-- 头部横幅 -->
 <div align="center">
-    <h1 style="
-        background: linear-gradient(45deg, #667eea, #764ba2, #f093fb, #f5576c);
-        background-size: 300% 300%;
-        -webkit-background-clip: text;
-        -webkit-text-fill-color: transparent;
-        animation: gentleGradient 4s ease-in-out infinite;
-        font-weight: bold;
-        font-size: 2.5em;
-        margin: 20px 0;
-        text-shadow: 0 2px 10px rgba(0,0,0,0.1);
-    ">
-        Hello，我是比特奇;<br>很高兴认识你 ✨
-    </h1>
-    ![11月1日](https://github.com/user-attachments/assets/ce531798-33f6-46a2-a4c7-220bd17a93c6)
+    <img width="50%" src="https://github.com/user-attachments/assets/ce531798-33f6-46a2-a4c7-220bd17a93c6"/>
 </div>
-
-<style>
-    @keyframes gentleGradient {
-        0%, 100% { background-position: 0% 50%; }
-        50% { background-position: 100% 50%; }
-    }
-</style>
 
 
 
